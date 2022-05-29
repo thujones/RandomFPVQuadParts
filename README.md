@@ -9,5 +9,6 @@ Parts created by me were done in FreeCAD and exported as STL files for general c
 - **M3-Spacer-2mm-SpacerBody.stl** - M3 sized 2mm spacer
 - **M3-Spacer-5mm-SpacerBody.stl** - M3 sized 5mm spacer
 
-# Other Parts - Found around the Internet, and attributed when requested
+# Other Parts - Found around the Internet
+Attribution provided when requested by original author
 - **TBD**
